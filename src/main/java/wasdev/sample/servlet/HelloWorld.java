@@ -1,4 +1,4 @@
-package wasdev.sample.servlet;
+
 
 public class HelloWorld{
 
